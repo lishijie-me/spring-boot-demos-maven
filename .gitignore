@@ -36,3 +36,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+gradle/wrapper/
+gradlew
+gradlew.bat
+application-prd.yml
