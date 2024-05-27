@@ -1,1 +1,6 @@
-# 基于 maven 进行编译的 Spring-Boot-3 案例代码笔记
+# Spring Boot 学习案例
+
+
+## 案例代码
+
+- [demo-hello](https://github.com/lishijie-me/spring-boot-demos-maven/tree/main/demo-hello)：Spring Boot 3.x  Hello World 示例
