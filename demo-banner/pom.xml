@@ -5,12 +5,14 @@
 
     <groupId>io.lishijie.demo</groupId>
     <artifactId>demo-banner</artifactId>
-    <version>1.0.0</version>
+    <version>${demo.version}</version>
+    <packaging>jar</packaging> <!-- 目前支持四种打包方式，默认 jar -->
 
     <name>${project.artifactId}</name>
     <description>${project.artifactId}</description>
 
     <properties>
+        <demo.version>1.0.0</demo.version>
         <java.version>21</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
